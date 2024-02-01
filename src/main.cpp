@@ -4,14 +4,6 @@
 
      Termômetro Animado com Display Nextion 7" e Arduino
 
-     Exibe temperatura e umidade relativa do ar
-
- 
-     autor: Eng. Wagner Rambo
-
-     data:  Julho de 2017
-
-  
 =============================================================================== */
 #include <SPI.h>
 #include <SD.h>
